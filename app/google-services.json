@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "154966430267",
+    "firebase_url": "https://dailysavings-ef924.firebaseio.com",
+    "project_id": "dailysavings-ef924",
+    "storage_bucket": "dailysavings-ef924.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154966430267:android:6f6d3cc413b12683",
+        "android_client_info": {
+          "package_name": "com.kaelombcorp.dailysavings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154966430267-ofk814724b4c0nnhcqrlrsfgq4f01quo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4E1bxpxQrLJ3wl_y12uv0J_xdUHddDMc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
